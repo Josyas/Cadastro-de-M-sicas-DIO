@@ -1,0 +1,16 @@
+D:\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.exe
+D:\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.deps.json
+D:\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.runtimeconfig.json
+D:\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.runtimeconfig.dev.json
+D:\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.dll
+D:\DIO.Musicas\bin\Debug\net5.0\ref\DIO.Musicas.dll
+D:\DIO.Musicas\bin\Debug\net5.0\DIO.Musicas.pdb
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.csproj.AssemblyReference.cache
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.AssemblyInfoInputs.cache
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.AssemblyInfo.cs
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.csproj.CoreCompileInputs.cache
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.dll
+D:\DIO.Musicas\obj\Debug\net5.0\ref\DIO.Musicas.dll
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.pdb
+D:\DIO.Musicas\obj\Debug\net5.0\DIO.Musicas.genruntimeconfig.cache
